@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\bin\Debug\net6.0\02CoreConsoleTemplate.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\bin\Debug\net6.0\02CoreConsoleTemplate.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\bin\Debug\net6.0\02CoreConsoleTemplate.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\bin\Debug\net6.0\02CoreConsoleTemplate.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\bin\Debug\net6.0\02CoreConsoleTemplate.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\02CoreConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\02CoreConsoleTemplate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\02CoreConsoleTemplate.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\02CoreConsoleTemplate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\02CoreConsoleTemplate.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\refint\02CoreConsoleTemplate.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\02CoreConsoleTemplate.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\02CoreConsoleTemplate.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\02CoreConsoleTemplate\obj\Debug\net6.0\ref\02CoreConsoleTemplate.dll
