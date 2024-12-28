@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\17MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\17MyLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\17MyLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\17MyLib.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\bin\Debug\net6.0\17MyLib.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\bin\Debug\net6.0\17MyLib.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\bin\Debug\net6.0\17MyLib.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\bin\Debug\net6.0\17MyLib.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\bin\Debug\net6.0\17MyLib.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\17MyLib.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\refint\17MyLib.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\17MyLib.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\17MyLib.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\17MyLib\obj\Debug\net6.0\ref\17MyLib.dll

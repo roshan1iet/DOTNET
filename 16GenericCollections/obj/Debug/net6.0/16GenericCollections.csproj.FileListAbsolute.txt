@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\bin\Debug\net6.0\16GenericCollections.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\bin\Debug\net6.0\16GenericCollections.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\bin\Debug\net6.0\16GenericCollections.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\bin\Debug\net6.0\16GenericCollections.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\bin\Debug\net6.0\16GenericCollections.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\16GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\16GenericCollections.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\16GenericCollections.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\16GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\16GenericCollections.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\refint\16GenericCollections.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\16GenericCollections.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\16GenericCollections.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\16GenericCollections\obj\Debug\net6.0\ref\16GenericCollections.dll
