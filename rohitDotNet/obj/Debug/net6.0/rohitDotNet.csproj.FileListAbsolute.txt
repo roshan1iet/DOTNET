@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\rohitDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\rohitDotNet.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\rohitDotNet.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\rohitDotNet.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\bin\Debug\net6.0\rohitDotNet.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\bin\Debug\net6.0\rohitDotNet.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\bin\Debug\net6.0\rohitDotNet.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\bin\Debug\net6.0\rohitDotNet.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\bin\Debug\net6.0\rohitDotNet.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\rohitDotNet.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\refint\rohitDotNet.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\rohitDotNet.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\rohitDotNet.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\rohitDotNet\obj\Debug\net6.0\ref\rohitDotNet.dll
