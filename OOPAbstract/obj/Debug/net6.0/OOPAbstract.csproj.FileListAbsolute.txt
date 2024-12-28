@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPAbstract\obj\Debug\net6.0\OOPAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPAbstract\obj\Debug\net6.0\OOPAbstract.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPAbstract\obj\Debug\net6.0\OOPAbstract.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPAbstract\obj\Debug\net6.0\OOPAbstract.csproj.CoreCompileInputs.cache

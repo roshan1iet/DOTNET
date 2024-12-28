@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\bin\Debug\net6.0\Inheritence.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\bin\Debug\net6.0\Inheritence.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\bin\Debug\net6.0\Inheritence.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\bin\Debug\net6.0\Inheritence.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\bin\Debug\net6.0\Inheritence.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\Inheritence.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\Inheritence.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\Inheritence.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\refint\Inheritence.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\Inheritence.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\Inheritence.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\Inheritence\obj\Debug\net6.0\ref\Inheritence.dll

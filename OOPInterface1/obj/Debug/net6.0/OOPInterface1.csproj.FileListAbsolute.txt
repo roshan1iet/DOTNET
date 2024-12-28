@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\bin\Debug\net6.0\OOPInterface1.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\bin\Debug\net6.0\OOPInterface1.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\bin\Debug\net6.0\OOPInterface1.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\bin\Debug\net6.0\OOPInterface1.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\bin\Debug\net6.0\OOPInterface1.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\OOPInterface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\OOPInterface1.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\OOPInterface1.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\OOPInterface1.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\OOPInterface1.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\refint\OOPInterface1.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\OOPInterface1.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\OOPInterface1.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPInterface1\obj\Debug\net6.0\ref\OOPInterface1.dll
