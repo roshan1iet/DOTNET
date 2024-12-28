@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\bin\Debug\net6.0\32DisconnectedArchitectureDB.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\bin\Debug\net6.0\32DisconnectedArchitectureDB.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\bin\Debug\net6.0\32DisconnectedArchitectureDB.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\bin\Debug\net6.0\32DisconnectedArchitectureDB.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\bin\Debug\net6.0\32DisconnectedArchitectureDB.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\32DisconnectedArchitectureDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\32DisconnectedArchitectureDB.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\32DisconnectedArchitectureDB.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\32DisconnectedArchitectureDB.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\32DisconnectedArchitectureDB.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\refint\32DisconnectedArchitectureDB.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\32DisconnectedArchitectureDB.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\32DisconnectedArchitectureDB.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\32DisconnectedArchitectureDB\obj\Debug\net6.0\ref\32DisconnectedArchitectureDB.dll
