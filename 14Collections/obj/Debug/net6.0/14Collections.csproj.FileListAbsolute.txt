@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\bin\Debug\net6.0\14Collections.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\bin\Debug\net6.0\14Collections.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\bin\Debug\net6.0\14Collections.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\bin\Debug\net6.0\14Collections.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\bin\Debug\net6.0\14Collections.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\14Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\14Collections.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\14Collections.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\14Collections.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\14Collections.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\refint\14Collections.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\14Collections.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\14Collections.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\14Collections\obj\Debug\net6.0\ref\14Collections.dll

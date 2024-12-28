@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\bin\Debug\net6.0\13Event.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\bin\Debug\net6.0\13Event.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\bin\Debug\net6.0\13Event.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\bin\Debug\net6.0\13Event.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\bin\Debug\net6.0\13Event.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\13Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\13Event.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\13Event.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\13Event.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\13Event.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\refint\13Event.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\13Event.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\13Event.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\13Event\obj\Debug\net6.0\ref\13Event.dll
