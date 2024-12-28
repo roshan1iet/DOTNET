@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\bin\Debug\net6.0\04OOPBasics.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\bin\Debug\net6.0\04OOPBasics.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\bin\Debug\net6.0\04OOPBasics.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\bin\Debug\net6.0\04OOPBasics.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\bin\Debug\net6.0\04OOPBasics.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\04OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\04OOPBasics.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\04OOPBasics.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\04OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\04OOPBasics.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\refint\04OOPBasics.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\04OOPBasics.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\04OOPBasics.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\04OOPBasics\obj\Debug\net6.0\ref\04OOPBasics.dll

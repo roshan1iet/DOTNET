@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\11ClickEvent\obj\Debug\net6.0\11ClickEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\11ClickEvent\obj\Debug\net6.0\11ClickEvent.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\11ClickEvent\obj\Debug\net6.0\11ClickEvent.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\11ClickEvent\obj\Debug\net6.0\11ClickEvent.csproj.CoreCompileInputs.cache

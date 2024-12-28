@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\bin\Debug\net6.0\12Delegate.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\bin\Debug\net6.0\12Delegate.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\bin\Debug\net6.0\12Delegate.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\bin\Debug\net6.0\12Delegate.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\bin\Debug\net6.0\12Delegate.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\12Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\12Delegate.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\12Delegate.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\12Delegate.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\12Delegate.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\refint\12Delegate.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\12Delegate.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\12Delegate.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\12Delegate\obj\Debug\net6.0\ref\12Delegate.dll

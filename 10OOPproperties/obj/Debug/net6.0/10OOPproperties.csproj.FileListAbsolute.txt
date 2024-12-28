@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\bin\Debug\net6.0\10OOPproperties.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\bin\Debug\net6.0\10OOPproperties.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\bin\Debug\net6.0\10OOPproperties.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\bin\Debug\net6.0\10OOPproperties.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\bin\Debug\net6.0\10OOPproperties.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\10OOPproperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\10OOPproperties.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\10OOPproperties.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\10OOPproperties.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\10OOPproperties.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\refint\10OOPproperties.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\10OOPproperties.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\10OOPproperties.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\10OOPproperties\obj\Debug\net6.0\ref\10OOPproperties.dll
