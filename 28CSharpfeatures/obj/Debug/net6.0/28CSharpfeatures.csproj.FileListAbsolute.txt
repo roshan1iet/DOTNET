@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\28CSharpfeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\28CSharpfeatures.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\28CSharpfeatures.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\28CSharpfeatures.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\bin\Debug\net6.0\28CSharpfeatures.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\bin\Debug\net6.0\28CSharpfeatures.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\bin\Debug\net6.0\28CSharpfeatures.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\bin\Debug\net6.0\28CSharpfeatures.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\bin\Debug\net6.0\28CSharpfeatures.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\28CSharpfeatures.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\refint\28CSharpfeatures.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\28CSharpfeatures.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\28CSharpfeatures.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\28CSharpfeatures\obj\Debug\net6.0\ref\28CSharpfeatures.dll

@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\20CMathLib\obj\Debug\net6.0\20CMathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\20CMathLib\obj\Debug\net6.0\20CMathLib.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\20CMathLib\obj\Debug\net6.0\20CMathLib.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\20CMathLib\obj\Debug\net6.0\20CMathLib.csproj.CoreCompileInputs.cache
