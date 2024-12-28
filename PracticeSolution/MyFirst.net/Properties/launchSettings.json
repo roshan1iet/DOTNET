@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MyFirst.net": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

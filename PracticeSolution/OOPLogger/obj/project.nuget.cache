@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rff9LYbsHv0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IET\\Desktop\\practice_Assignment\\.Net\\PracticeSolution\\OOPLogger\\OOPLogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IET\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

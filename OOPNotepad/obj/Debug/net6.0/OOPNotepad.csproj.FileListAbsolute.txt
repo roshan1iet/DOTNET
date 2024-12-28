@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\bin\Debug\net6.0\OOPNotepad.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\bin\Debug\net6.0\OOPNotepad.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\bin\Debug\net6.0\OOPNotepad.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\bin\Debug\net6.0\OOPNotepad.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\bin\Debug\net6.0\OOPNotepad.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\OOPNotepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\OOPNotepad.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\OOPNotepad.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\OOPNotepad.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\OOPNotepad.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\refint\OOPNotepad.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\OOPNotepad.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\OOPNotepad.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\OOPNotepad\obj\Debug\net6.0\ref\OOPNotepad.dll

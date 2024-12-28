@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\bin\Debug\net6.0\MyFirst.net.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\bin\Debug\net6.0\MyFirst.net.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\bin\Debug\net6.0\MyFirst.net.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\bin\Debug\net6.0\MyFirst.net.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\bin\Debug\net6.0\MyFirst.net.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\MyFirst.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\MyFirst.net.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\MyFirst.net.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\MyFirst.net.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\MyFirst.net.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\refint\MyFirst.net.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\MyFirst.net.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\MyFirst.net.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\PracticeSolution\MyFirst.net\obj\Debug\net6.0\ref\MyFirst.net.dll
