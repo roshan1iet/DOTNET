@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\bin\Debug\net6.0\36Threading.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\bin\Debug\net6.0\36Threading.deps.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\bin\Debug\net6.0\36Threading.runtimeconfig.json
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\bin\Debug\net6.0\36Threading.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\bin\Debug\net6.0\36Threading.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\36Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\36Threading.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\36Threading.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\36Threading.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\36Threading.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\refint\36Threading.dll
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\36Threading.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\36Threading.genruntimeconfig.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\36Threading\obj\Debug\net6.0\ref\36Threading.dll

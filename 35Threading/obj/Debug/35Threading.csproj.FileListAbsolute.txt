@@ -1,0 +1,10 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\bin\Debug\35Threading.exe.config
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\bin\Debug\35Threading.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\bin\Debug\35Threading.pdb
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\obj\Debug\35Threading.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\obj\Debug\_35Threading.Form.resources
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\obj\Debug\_35Threading.Properties.Resources.resources
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\obj\Debug\35Threading.csproj.GenerateResource.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\obj\Debug\35Threading.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\obj\Debug\35Threading.exe
+C:\Users\IET\Desktop\practice_Assignment\.Net\35Threading\obj\Debug\35Threading.pdb

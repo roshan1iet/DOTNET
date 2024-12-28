@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\practice_Assignment\.Net\33ConnectedWithDataset\obj\Debug\net6.0\33ConnectedWithDataset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\practice_Assignment\.Net\33ConnectedWithDataset\obj\Debug\net6.0\33ConnectedWithDataset.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\practice_Assignment\.Net\33ConnectedWithDataset\obj\Debug\net6.0\33ConnectedWithDataset.AssemblyInfo.cs
+C:\Users\IET\Desktop\practice_Assignment\.Net\33ConnectedWithDataset\obj\Debug\net6.0\33ConnectedWithDataset.csproj.CoreCompileInputs.cache
